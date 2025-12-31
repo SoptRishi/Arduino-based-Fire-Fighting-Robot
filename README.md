@@ -5,7 +5,7 @@
 
 An autonomous fire-fighting robot built with Arduino Uno. The robot uses three IR flame sensors to detect fire from front, left, and right directions, navigates toward the flame using a 4WD chassis with differential steering, and extinguishes small flames (e.g., candles) by spraying water from an onboard submersible pump. A servo motor directs the nozzle for targeted spraying.
 ### Final Prototype Build
-![Final Prototype Photo](Fire_fighting_robot.jpeg)
+![Final Prototype Photo](Fire_Fighting_Car.jpeg)
 
 
 ## Features
